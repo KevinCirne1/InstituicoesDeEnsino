@@ -1,0 +1,13 @@
+.mdb-carousel {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mdb-carousel img {
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  visibility: visible;
+  opacity: 1;
+}
