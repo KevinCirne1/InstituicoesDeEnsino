@@ -57,7 +57,7 @@ const Propriedades = () => {
         </Col>
         <Col xs={2}>
           <MDBTooltip title="Cadastrar Nova IE">
-            <Button onClick={() => setShowModal(true)} variant="success">Nova Ist</Button>
+            <Button onClick={() => setShowModal(true)} variant="primary">Nova Ist</Button>
           </MDBTooltip>
         </Col>
       </Row>
